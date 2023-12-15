@@ -1,4 +1,4 @@
-# analyzing_public_perception_and_engagement_with_climate_change_on_reddit
+# Analyzing Public Perception and Engagement with Climate Change on Reddit
 
 This repository contains a Python project for performing sentiment analysis on Reddit data. The goal is to analyze public perception and engagement with various topics, classifying sentiments in Reddit comments and posts using machine learning techniques.
 
