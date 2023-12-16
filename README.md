@@ -1,6 +1,21 @@
 # Analyzing Public Perception and Engagement with Climate Change on Reddit
 
-This repository contains a Python project for performing sentiment analysis on Reddit data. The goal is to analyze public perception and engagement with various topics, classifying sentiments in Reddit comments and posts using machine learning techniques.
+This repository contains code, dataset, and presentation files for CIS 600 – Social Media and Data Mining term project.
+ 
+Team Members
+1. Atharva Kulkarni 
+2. Nimeesh Bagwe
+3. Yogesh Patil
+4. Rahul Pudurkar
+5. Divit Shetty
+
+This project covers the following topics:
+1. Identify Popular Keywords
+2. Sentiment Analysis
+3. Misinformation Detection
+4. Identify the Most Influential Comments
+5. Subreddit Popularity Analysis
+6. Word Cloud
 
 ## Prerequisites
 
@@ -44,7 +59,7 @@ Before running this project, ensure you have the following installed:
 
 ## Dataset
 
-Place the `final_dataset.csv` file in the project directory. This file contains the Reddit comments and posts data used for sentiment analysis.
+Place the `final_dataset.csv`and `misinformation_prediction.csv` file in the project directory. This file contains the Reddit comments and posts data used for sentiment analysis.
 
 ## Running the Code
 
